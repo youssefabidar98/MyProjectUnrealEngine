@@ -1,0 +1,35 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/youss/OneDrive/Documents/Unreal Projects/MyProject/Content/NewMap.umap",
+				"C:/Users/youss/OneDrive/Documents/Unreal Projects/MyProject/Content/Player/BP_PlayerCharacter.uasset",
+				"C:/Users/youss/OneDrive/Documents/Unreal Projects/MyProject/Content/Player/Input/IA_Move.uasset",
+				"C:/Users/youss/OneDrive/Documents/Unreal Projects/MyProject/Content/Player/Input/IMC_InputMapping.uasset",
+				"C:/Users/youss/OneDrive/Documents/Unreal Projects/MyProject/Content/Player/Input/IA_Look.uasset",
+				"C:/Users/youss/OneDrive/Documents/Unreal Projects/MyProject/Content/Player/Input/IA_Shoot.uasset",
+				"C:/Users/youss/OneDrive/Documents/Unreal Projects/MyProject/Content/Player/Input/IA_Sprint.uasset",
+				"C:/Users/youss/OneDrive/Documents/Unreal Projects/MyProject/Content/Player/Input/IA_Jump.uasset",
+				"C:/Users/youss/OneDrive/Documents/Unreal Projects/MyProject/Content/Player/BP_PlayerController.uasset",
+				"C:/Users/youss/OneDrive/Documents/Unreal Projects/MyProject/Content/BP_GameMode.uasset",
+				"C:/Users/youss/OneDrive/Documents/Unreal Projects/MyProject/Content/Player/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/youss/OneDrive/Documents/Unreal Projects/MyProject/Content/Player/Animations/ABP_CharacterAnimation.uasset",
+				"C:/Users/youss/OneDrive/Documents/Unreal Projects/MyProject/Content/Player/Animations/BS_CharacterMouvements.uasset",
+				"C:/Users/youss/OneDrive/Documents/Unreal Projects/MyProject/Content/Player/Input/IA_Crouch.uasset",
+				"C:/Users/youss/OneDrive/Documents/Unreal Projects/MyProject/Content/Megascans/3D_Assets/Modular_Building_Window_wdetba1dw/S_Modular_Building_Window_wdetba1dw_lod3_Var1.uasset",
+				"C:/Users/youss/OneDrive/Documents/Unreal Projects/MyProject/Content/Megascans/3D_Assets/Japanese_Stone_Wall_vfvndg3cb/S_Japanese_Stone_Wall_vfvndg3cb_lod3_Var1.uasset",
+				"C:/Users/youss/OneDrive/Documents/Unreal Projects/MyProject/Content/Environnement/Materials/M_Concrete.uasset",
+				"C:/Users/youss/OneDrive/Documents/Unreal Projects/MyProject/Content/Megascans/3D_Assets/Castle_Stairs_scfdy/S_Castle_Stairs_scfdy_lod3.uasset",
+				"C:/Users/youss/OneDrive/Documents/Unreal Projects/MyProject/Content/Megascans/3D_Assets/Traffic_Cone_uhcgdgufa/S_Traffic_Cone_uhcgdgufa_lod3_Var1.uasset",
+				"C:/Users/youss/OneDrive/Documents/Unreal Projects/MyProject/Content/Megascans/3D_Assets/Modular_Safety_Rail_Kit_wmnoef3dw/S_Modular_Safety_Rail_Kit_wmnoef3dw_lod3_Var4.uasset",
+				"C:/Users/youss/OneDrive/Documents/Unreal Projects/MyProject/Content/Megascans/Surfaces/Creeping_Fig_Wall_vddoagn/T_Creeping_Fig_Wall_vddoagn_2K_Mat.uasset",
+				"C:/Users/youss/OneDrive/Documents/Unreal Projects/MyProject/Content/BP_Checkpoint.uasset",
+				"C:/Users/youss/OneDrive/Documents/Unreal Projects/MyProject/Content/BP_Timer.uasset",
+				"C:/Users/youss/OneDrive/Documents/Unreal Projects/MyProject/Content/Player/Input/IA_Speed.uasset"
+			]
+		}
+	]
+}

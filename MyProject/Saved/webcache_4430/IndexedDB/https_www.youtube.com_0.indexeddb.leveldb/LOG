@@ -1,0 +1,15 @@
+2023/01/26-11:03:47.097 a31c Reusing MANIFEST C:/Users/youss/OneDrive/Documents/Unreal Projects/MyProject/Saved/webcache_4430\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/01/26-11:03:47.099 a31c Recovering log #4
+2023/01/26-11:03:47.099 a31c Reusing old log C:/Users/youss/OneDrive/Documents/Unreal Projects/MyProject/Saved/webcache_4430\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/000004.log 
+2023/01/26-11:13:57.289 b4ac Level-0 table #8: started
+2023/01/26-11:13:57.299 b4ac Level-0 table #8: 20370 bytes OK
+2023/01/26-11:13:57.301 b4ac Delete type=0 #4
+2023/01/26-11:13:57.302 b4ac Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2023/01/26-11:13:57.303 b4ac Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x02\x01\x1f\x04\x03\x01\x06\x00Q\x00U\x00E\x00U\x00E\x00D\x03\x00\x00\x00\x00\x00\x00L@\x03\x00\x00\xe8\xc9\xd8^xB\x00\x03\x00\x00\x00\x00\x00\x00\x10@' @ 276 : 1
+2023/01/26-11:13:57.303 b4ac Compacting 1@1 + 1@2 files
+2023/01/26-11:13:57.316 b4ac Generated table #9@1: 42 keys, 2468 bytes
+2023/01/26-11:13:57.316 b4ac Compacted 1@1 + 1@2 files => 2468 bytes
+2023/01/26-11:13:57.317 b4ac compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/01/26-11:13:57.317 b4ac Delete type=2 #5
+2023/01/26-11:13:57.317 b4ac Delete type=2 #8
+2023/01/26-11:13:57.319 b4ac Manual compaction at level-1 from '\x00\x02\x01\x1f\x04\x03\x01\x06\x00Q\x00U\x00E\x00U\x00E\x00D\x03\x00\x00\x00\x00\x00\x00L@\x03\x00\x00\xe8\xc9\xd8^xB\x00\x03\x00\x00\x00\x00\x00\x00\x10@' @ 276 : 1 .. (end); will stop at (end)
